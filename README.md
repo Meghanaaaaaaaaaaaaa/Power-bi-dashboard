@@ -1,4 +1,4 @@
-# Data Professionals Survey Analysis – Power BI Dashboard
+# Data Professionals Survey Analysis using Power BI
 ## Project objective
 This project presents a comprehensive Power BI dashboard built using survey data collected from data professionals across the world. The goal of the project is to derive actionable insights about career satisfaction, challenges, demographics, and priorities among individuals working in the data industry.
 
@@ -29,4 +29,17 @@ This project presents a comprehensive Power BI dashboard built using survey data
 
 ## Dashboard
 <img width="1919" height="969" alt="Screenshot 2025-07-23 203319" src="https://github.com/user-attachments/assets/71f3bf85-5a0a-4703-8d41-1f027e2e3036" />
+
+ ## Project Insights
+- Most respondents are under 35 years old, highlighting a young and emerging data workforce.
+- A significant portion of professionals reported that breaking into the data field was difficult, especially for those with less formal education.
+- Remote Work and Better Salary emerged as the top job priorities across all age groups and countries.
+- Respondents generally showed moderate to high satisfaction in areas like management support, growth opportunities, and learning.
+- The United States, Canada, and Nigeria were among the most represented countries in the dataset.
+- There is notable ethnic and educational diversity, with participants coming from various backgrounds and levels of education.
+
+## Conclusion
+This Power BI dashboard provides a comprehensive overview of the experiences and expectations of data professionals worldwide. By transforming raw survey data into meaningful visuals, the project offers valuable insights into what drives satisfaction, what challenges individuals face entering the field, and what they value most in their careers. It highlights the importance of remote flexibility, learning opportunities, and fair compensation in today’s data-driven job market. The dashboard serves as a practical example of data storytelling and visualization for real-world survey analysis.
+
+
 
