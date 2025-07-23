@@ -28,4 +28,5 @@ This project presents a comprehensive Power BI dashboard built using survey data
 - Packaged final .pbix file and dataset for GitHub as a portfolio project.
 
 ## Dashboard
-<img width="1919" height="973" alt="Screenshot 2025-07-23 202521" src="https://github.com/user-attachments/assets/11857149-6bf0-4b47-85dc-e97c40a4bc41" />
+<img width="1919" height="969" alt="Screenshot 2025-07-23 203319" src="https://github.com/user-attachments/assets/71f3bf85-5a0a-4703-8d41-1f027e2e3036" />
+
