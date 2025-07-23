@@ -19,7 +19,7 @@ This project presents a comprehensive Power BI dashboard built using survey data
 
 -Dashboard INteraction <a href="https://github.com/Meghanaaaaaaaaaaaaa/Power-bi-dashboard/blob/main/Data%20professional%20Survey%20project%20power%20bi.pbix">View Dashboard</a>
 
-# process
+# Process
 - Cleaned and preprocessed survey data in Excel (handled nulls, grouped values, formatted types).
 - Imported data into Power BI for modeling and visualization.
 - Created DAX measures and calculated columns for KPIs.
