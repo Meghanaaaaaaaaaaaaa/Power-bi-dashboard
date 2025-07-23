@@ -17,7 +17,7 @@ This project presents a comprehensive Power BI dashboard built using survey data
 - Ethnic Diversity: Represents the ethnic backgrounds across the dataset.
 - Avg Time Spent on Survey: Reflects respondent engagement through time taken.
 
--Dashboard INteraction <a href="https://github.com/Meghanaaaaaaaaaaaaa/Power-bi-dashboard/blob/main/Data%20professional%20Survey%20project%20power%20bi.pbix">View Dashboard</a>
+-Dashboard Interaction <a href="https://github.com/Meghanaaaaaaaaaaaaa/Power-bi-dashboard/blob/main/Data%20professional%20Survey%20project%20power%20bi.pbix">View Dashboard</a>
 
 # Process
 - Cleaned and preprocessed survey data in Excel (handled nulls, grouped values, formatted types).
